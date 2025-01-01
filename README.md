@@ -11,4 +11,4 @@ This repository contains data about _Pokémon TCG Pocket_'s cards in the same (J
 
 # Thanks
 
-A big thanks goes Robin Schulz and his website (Limitless)[https://limitlesstcg.com]. Most of this data has been scraped from there.
+A big thanks goes Robin Schulz and his website [Limitless](https://limitlesstcg.com). Most of this data has been scraped from there.
