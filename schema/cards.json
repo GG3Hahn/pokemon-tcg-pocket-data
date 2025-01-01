@@ -1,0 +1,275 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/Card"
+    },
+    "definitions": {
+        "Card": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "supertype": {
+                    "$ref": "#/definitions/Supertype"
+                },
+                "subtypes": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Subtype"
+                    }
+                },
+                "hp": {
+                    "type": "string",
+                    "format": "integer"
+                },
+                "types": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Color"
+                    }
+                },
+                "attacks": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Attack"
+                    }
+                },
+                "weaknesses": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Weakness"
+                    }
+                },
+                "retreatCost": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Color"
+                    }
+                },
+                "convertedRetreatCost": {
+                    "type": "integer"
+                },
+                "number": {
+                    "type": "string",
+                    "format": "integer"
+                },
+                "artist": {
+                    "type": "string"
+                },
+                "rarity": {
+                    "$ref": "#/definitions/Rarity"
+                },
+                "nationalPokedexNumbers": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "legalities": {
+                    "$ref": "#/definitions/Legalities"
+                },
+                "images": {
+                    "$ref": "#/definitions/Images"
+                },
+                "evolvesFrom": {
+                    "type": "string"
+                },
+                "rules": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "abilities": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Ability"
+                    }
+                }
+            },
+            "required": [
+                "artist",
+                "id",
+                "images",
+                "legalities",
+                "name",
+                "number",
+                "rarity",
+                "subtypes",
+                "supertype"
+            ],
+            "title": "Card"
+        },
+        "Ability": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "text": {
+                    "type": "string"
+                },
+                "type": {
+                    "$ref": "#/definitions/AbilityType"
+                }
+            },
+            "required": [
+                "name",
+                "text",
+                "type"
+            ],
+            "title": "Ability"
+        },
+        "Attack": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "cost": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Color"
+                    }
+                },
+                "name": {
+                    "type": "string"
+                },
+                "damage": {
+                    "type": "string"
+                },
+                "text": {
+                    "type": "string"
+                },
+                "convertedEnergyCost": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "convertedEnergyCost",
+                "cost",
+                "damage",
+                "name",
+                "text"
+            ],
+            "title": "Attack"
+        },
+        "Images": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "large": {
+                    "type": "string",
+                    "format": "uri"
+                },
+                "small": {
+                    "type": "string",
+                    "format": "uri"
+                }
+            },
+            "required": [
+                "large",
+                "small"
+            ],
+            "title": "Images"
+        },
+        "Legalities": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "standard": {
+                    "$ref": "#/definitions/Legality"
+                }
+            },
+            "title": "Legalities"
+        },
+        "Weakness": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "type": {
+                    "$ref": "#/definitions/Color"
+                },
+                "value": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "type",
+                "value"
+            ],
+            "title": "Weakness"
+        },
+        "AbilityType": {
+            "type": "string",
+            "enum": [
+                "Ability"
+            ],
+            "title": "AbilityType"
+        },
+        "Color": {
+            "type": "string",
+            "enum": [
+                "Grass",
+                "Fire",
+                "Water",
+                "Lightning",
+                "Psychic",
+                "Fighting",
+                "Darkness",
+                "Metal",
+                "Dragon",
+                "Colorless"
+            ],
+            "title": "Color"
+        },
+        "Legality": {
+            "type": "string",
+            "enum": [
+                "Legal",
+                "Banned"
+            ],
+            "title": "Legality"
+        },
+        "Rarity": {
+            "type": "string",
+            "enum": [
+                "Single Diamond",
+                "Double Diamond",
+                "Triple Diamond",
+                "Quadruple Diamond",
+                "One Star",
+                "Two Stars",
+                "Three Stars",
+                "Crown",
+                "Promo"
+            ],
+            "title": "Rarity"
+        },
+        "Subtype": {
+            "type": "string",
+            "enum": [
+                "Basic",
+                "Stage 1",
+                "Stage 2",
+                "ex",
+                "Item",
+                "Supporter"
+            ],
+            "title": "Subtype"
+        },
+        "Supertype": {
+            "type": "string",
+            "enum": [
+                "Pokémon",
+                "Trainer"
+            ],
+            "title": "Supertype"
+        }
+    }
+}

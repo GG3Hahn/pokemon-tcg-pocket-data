@@ -1,0 +1,4030 @@
+[
+  {
+    "id": "A1a-1",
+    "name": "Exeggcute",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growth Spurt",
+        "damage": "",
+        "text": "Take a Grass Energy from your Energy Zone and attach it to this Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Yuka Morii",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      102
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-2",
+    "name": "Exeggutor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psychic",
+        "damage": "80+",
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "2",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      103
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp"
+    },
+    "evolvesFrom": "Exeggcute"
+  },
+  {
+    "id": "A1a-3",
+    "name": "Celebi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Powerful Bloom",
+        "damage": "50x",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "PLANETA CG Works",
+    "rarity": "Quadruple Diamond",
+    "nationalPokedexNumbers": [
+      251
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-4",
+    "name": "Snivy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Vine Whip",
+        "damage": "40",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      495
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_004_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_004_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-5",
+    "name": "Servine",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Vine Whip",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Shigenori Negishi",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      496
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp"
+    },
+    "evolvesFrom": "Snivy"
+  },
+  {
+    "id": "A1a-6",
+    "name": "Serperior",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solar Beam",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "6",
+    "artist": "Yoshioka",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      497
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp"
+    },
+    "evolvesFrom": "Servine",
+    "abilities": [
+      {
+        "name": "Jungle Totem",
+        "text": "Each Grass Energy attached to your Grass Pokémon provides 2 Grass Energy. This effect doesn't stack.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "A1a-7",
+    "name": "Morelull",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Ram",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "Saya Tsuruta",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      755
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-8",
+    "name": "Shiinotic",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": "Flickering Spores",
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Asleep.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "artist": "Mizue",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      756
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp"
+    },
+    "evolvesFrom": "Morelull"
+  },
+  {
+    "id": "A1a-9",
+    "name": "Dhelmise",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Energy Whip",
+        "damage": "20+",
+        "text": "If this Pokémon has at least 3 extra Grass Energy attached, this attack does 70 more damage.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "9",
+    "artist": "Hasuno",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      781
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-10",
+    "name": "Ponyta",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Stomp",
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "10",
+    "artist": "Tomokazu Komiya",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      77
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-11",
+    "name": "Rapidash",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Rising Lunge",
+        "damage": "40+",
+        "text": "Flip a coin. If heads, this attack does 60 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "11",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      78
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp"
+    },
+    "evolvesFrom": "Ponyta"
+  },
+  {
+    "id": "A1a-12",
+    "name": "Magmar",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": "Fire Blast",
+        "damage": "80",
+        "text": "Discard 2 Fire Energy from this Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "12",
+    "artist": "sui",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      126
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-13",
+    "name": "Larvesta",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Combustion",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "13",
+    "artist": "kawayoo",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      636
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-14",
+    "name": "Volcarona",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Volcanic Ash",
+        "damage": "",
+        "text": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "14",
+    "artist": "DOM",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      637
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp"
+    },
+    "evolvesFrom": "Larvesta"
+  },
+  {
+    "id": "A1a-15",
+    "name": "Salandit",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Venoshock",
+        "damage": "10+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "Naoki Saito",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      757
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-16",
+    "name": "Salazzle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Poison Claws",
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Poisoned.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "16",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      758
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp"
+    },
+    "evolvesFrom": "Salandit"
+  },
+  {
+    "id": "A1a-17",
+    "name": "Magikarp",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Leap Out",
+        "damage": "",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "17",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      129
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-18",
+    "name": "Gyarados ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "180",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Rampaging Whirlpool",
+        "damage": "140",
+        "text": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "18",
+    "artist": "PLANETA CG Works",
+    "rarity": "Quadruple Diamond",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp"
+    },
+    "evolvesFrom": "Magikarp",
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-19",
+    "name": "Vaporeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wave Splash",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "LINNE",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_019_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_019_EN.webp"
+    },
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Wash Out",
+        "text": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokémon to your Active Water Pokémon.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "A1a-20",
+    "name": "Finneon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Gun",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "20",
+    "artist": "sui",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      456
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-21",
+    "name": "Lumineon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Aqua Liner",
+        "damage": "",
+        "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [],
+    "convertedRetreatCost": 0,
+    "number": "21",
+    "artist": "Sekio",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      457
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp"
+    },
+    "evolvesFrom": "Finneon"
+  },
+  {
+    "id": "A1a-22",
+    "name": "Chewtle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "22",
+    "artist": "Taiga Kayama",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      833
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-23",
+    "name": "Drednaw",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": "Crunch",
+        "damage": "70",
+        "text": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "23",
+    "artist": "nisimono",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      834
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp"
+    },
+    "evolvesFrom": "Chewtle"
+  },
+  {
+    "id": "A1a-24",
+    "name": "Cramorant",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Dive",
+        "damage": "60",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Jerky",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      845
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-25",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Circle Circuit",
+        "damage": "10x",
+        "text": "This attack does 10 damage for each of your Benched Lightning Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "25",
+    "artist": "Naoyo Kimura",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-26",
+    "name": "Raichu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Gigashock",
+        "damage": "60",
+        "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "26",
+    "artist": "hncl",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp"
+    },
+    "evolvesFrom": "Pikachu"
+  },
+  {
+    "id": "A1a-27",
+    "name": "Electabuzz",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Thunder Spear",
+        "damage": "",
+        "text": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "27",
+    "artist": "Naoyo Kimura",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      125
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-28",
+    "name": "Joltik",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "40",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Bug Bite",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "28",
+    "artist": "MINAMINAMI Take",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      595
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-29",
+    "name": "Galvantula",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Electroweb",
+        "damage": "70",
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "29",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      596
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp"
+    },
+    "evolvesFrom": "Joltik"
+  },
+  {
+    "id": "A1a-30",
+    "name": "Dedenne",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Thunder Shock",
+        "damage": "10",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "30",
+    "artist": "Taiga Kayama",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      702
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-31",
+    "name": "Mew",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psy Report",
+        "damage": "20",
+        "text": "Your opponent reveals their hand.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "31",
+    "artist": "Saya Tsuruta",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-32",
+    "name": "Mew ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Genome Hacking",
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "32",
+    "artist": "PLANETA CG Works",
+    "rarity": "Quadruple Diamond",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-33",
+    "name": "Sigilyph",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Spike Draw",
+        "damage": "10",
+        "text": "Draw a card.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "33",
+    "artist": "Shigenori Negishi",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      561
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-34",
+    "name": "Elgyem",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Headbutt",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "34",
+    "artist": "Kouki Saitou",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      605
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-35",
+    "name": "Beheeyem",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Mind Jack",
+        "damage": "10+",
+        "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "35",
+    "artist": "sowsow",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      606
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp"
+    },
+    "evolvesFrom": "Elgyem"
+  },
+  {
+    "id": "A1a-36",
+    "name": "Flabébé",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "40",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Hypnotic Gaze",
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Asleep.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "36",
+    "artist": "Cona Nitanda",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      669
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-37",
+    "name": "Floette",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Leaf Drain",
+        "damage": "40",
+        "text": "Heal 10 damage from this Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "37",
+    "artist": "Cona Nitanda",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      670
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp"
+    },
+    "evolvesFrom": "Flabebe"
+  },
+  {
+    "id": "A1a-38",
+    "name": "Florges",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": "Bloomshine",
+        "damage": "80",
+        "text": "Heal 20 damage from each of your Pokémon.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "38",
+    "artist": "Cona Nitanda",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      671
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp"
+    },
+    "evolvesFrom": "Floette"
+  },
+  {
+    "id": "A1a-39",
+    "name": "Swirlix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Fairy Wind",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39",
+    "artist": "5ban Graphics",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      684
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-40",
+    "name": "Slurpuff",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Magical Shot",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "40",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      685
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp"
+    },
+    "evolvesFrom": "Swirlix"
+  },
+  {
+    "id": "A1a-41",
+    "name": "Mankey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Focus Fist",
+        "damage": "50",
+        "text": "Flip a coin. If tails, this attack does nothing.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "41",
+    "artist": "Akira Komayama",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      56
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-42",
+    "name": "Primeape",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Punch",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "42",
+    "artist": "Taiga Kayama",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      57
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp"
+    },
+    "evolvesFrom": "Mankey"
+  },
+  {
+    "id": "A1a-43",
+    "name": "Geodude",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Light Punch",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "43",
+    "artist": "GOSSAN",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      74
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-44",
+    "name": "Graveler",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Lunge Out",
+        "damage": "40",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "44",
+    "artist": "Ayaka Yoshida",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      75
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp"
+    },
+    "evolvesFrom": "Geodude"
+  },
+  {
+    "id": "A1a-45",
+    "name": "Golem",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Guard Press",
+        "damage": "120",
+        "text": "During your opponent's next turn, this Pokémon takes −30 damage from attacks.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "45",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      76
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp"
+    },
+    "evolvesFrom": "Graveler"
+  },
+  {
+    "id": "A1a-46",
+    "name": "Aerodactyl ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "140",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Land Crush",
+        "damage": "80",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "46",
+    "artist": "PLANETA CG Works",
+    "rarity": "Quadruple Diamond",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp"
+    },
+    "evolvesFrom": "{{ERROR}}",
+    "abilities": [
+      {
+        "name": "Primeval Law",
+        "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-47",
+    "name": "Marshadow",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Revenge",
+        "damage": "40+",
+        "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "47",
+    "artist": "kantaro",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      802
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_047_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_047_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-48",
+    "name": "Stonjourner",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Mega Kick",
+        "damage": "90",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "48",
+    "artist": "Teeziro",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      874
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-49",
+    "name": "Koffing",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Division",
+        "damage": "",
+        "text": "Put 1 random Koffing from your deck onto your Bench.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "49",
+    "artist": "Naoyo Kimura",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      109
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-50",
+    "name": "Weezing",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": "Smokescreen",
+        "damage": "50",
+        "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "50",
+    "artist": "Mousho",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      110
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp"
+    },
+    "evolvesFrom": "Koffing"
+  },
+  {
+    "id": "A1a-51",
+    "name": "Purrloin",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Scratch",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "51",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      509
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-52",
+    "name": "Liepard",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Slash",
+        "damage": "40",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "52",
+    "artist": "GIDORA",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      510
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp"
+    },
+    "evolvesFrom": "Purrloin"
+  },
+  {
+    "id": "A1a-53",
+    "name": "Venipede",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Ram",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "53",
+    "artist": "Yukiko Baba",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      543
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-54",
+    "name": "Whirlipede",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": "Poison Sting",
+        "damage": "20",
+        "text": "Your opponent's Active Pokémon is now Poisoned.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "54",
+    "artist": "Shin Nagasawa",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      544
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp"
+    },
+    "evolvesFrom": "Venipede"
+  },
+  {
+    "id": "A1a-55",
+    "name": "Scolipede",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Venoshock",
+        "damage": "70+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "55",
+    "artist": "5ban Graphics",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      545
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp"
+    },
+    "evolvesFrom": "Whirlipede"
+  },
+  {
+    "id": "A1a-56",
+    "name": "Druddigon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Dragon Claw",
+        "damage": "90",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "56",
+    "artist": "Ryota Murayama",
+    "rarity": "Double Diamond",
+    "nationalPokedexNumbers": [
+      621
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp"
+    },
+    "abilities": [
+      {
+        "name": "Rough Skin",
+        "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "A1a-57",
+    "name": "Pidgey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Flap",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "57",
+    "artist": "Shigenori Negishi",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      16
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-58",
+    "name": "Pidgeotto",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wing Attack",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "58",
+    "artist": "Taiga Kayama",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      17
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp"
+    },
+    "evolvesFrom": "Pidgey"
+  },
+  {
+    "id": "A1a-59",
+    "name": "Pidgeot ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "170",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scattering Cyclone",
+        "damage": "80+",
+        "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "59",
+    "artist": "PLANETA CG Works",
+    "rarity": "Quadruple Diamond",
+    "nationalPokedexNumbers": [
+      18
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp"
+    },
+    "evolvesFrom": "Pidgeotto",
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-60",
+    "name": "Tauros",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fighting Tackle",
+        "damage": "40+",
+        "text": "If your opponent's Active Pokémon is a Pokémon  more damage.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "60",
+    "artist": "KEIICHIRO ITO",
+    "rarity": "Triple Diamond",
+    "nationalPokedexNumbers": [
+      128
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-61",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Continuous Steps",
+        "damage": "20x",
+        "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "61",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-62",
+    "name": "Chatot",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Mimic",
+        "damage": "",
+        "text": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "62",
+    "artist": "Masako Tomii",
+    "rarity": "Single Diamond",
+    "nationalPokedexNumbers": [
+      441
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-63",
+    "name": "Old Amber",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "hp": "40",
+    "number": "63",
+    "artist": "Toyste Beach",
+    "rarity": "Single Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp"
+    },
+    "rules": [
+      "Play this card as if it were a 40-HP Basic Colorless Pokémon.\nAt any time during your turn, you may discard this card from play.\nThis card can't retreat.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "A1a-64",
+    "name": "Pokémon Flute",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "64",
+    "artist": "Toyste Beach",
+    "rarity": "Double Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp"
+    },
+    "rules": [
+      "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "A1a-65",
+    "name": "Mythical Slab",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "65",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Double Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp"
+    },
+    "rules": [
+      "Look at the top card of your deck. If that card is a Psychic Pokémon, put it into your hand. If it is not a Psychic Pokémon, put it on the bottom of your deck.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "A1a-66",
+    "name": "Budding Expeditioner",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "66",
+    "artist": "Yuu Nishida",
+    "rarity": "Double Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp"
+    },
+    "rules": [
+      "Put your Mew ex in the Active Spot into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-67",
+    "name": "Blue",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "67",
+    "artist": "Ryuta Fuse",
+    "rarity": "Double Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp"
+    },
+    "rules": [
+      "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-68",
+    "name": "Leaf",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "68",
+    "artist": "En Morikura",
+    "rarity": "Double Diamond",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp"
+    },
+    "rules": [
+      "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-69",
+    "name": "Exeggutor",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Psychic",
+        "damage": "80+",
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "69",
+    "artist": "Gapao",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      103
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp"
+    },
+    "evolvesFrom": "Exeggcute"
+  },
+  {
+    "id": "A1a-70",
+    "name": "Serperior",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Solar Beam",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "70",
+    "artist": "rika",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      497
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp"
+    },
+    "evolvesFrom": "Servine",
+    "abilities": [
+      {
+        "name": "Jungle Totem",
+        "text": "Each Grass Energy attached to your Grass Pokémon provides 2 Grass Energy. This effect doesn't stack.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "A1a-71",
+    "name": "Salandit",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Venoshock",
+        "damage": "10+",
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "71",
+    "artist": "Nurikabe",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      757
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-72",
+    "name": "Vaporeon",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wave Splash",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "72",
+    "artist": "aspara",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp"
+    },
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Wash Out",
+        "text": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokémon to your Active Water Pokémon.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "A1a-73",
+    "name": "Dedenne",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Thunder Shock",
+        "damage": "10",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "73",
+    "artist": "Yuu Nishida",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      702
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-74",
+    "name": "Marshadow",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Revenge",
+        "damage": "40+",
+        "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "74",
+    "artist": "OKACHEKE",
+    "rarity": "One Star",
+    "nationalPokedexNumbers": [
+      802
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp"
+    }
+  },
+  {
+    "id": "A1a-75",
+    "name": "Celebi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Powerful Bloom",
+        "damage": "50x",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "75",
+    "artist": "PLANETA CG Works",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      251
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-76",
+    "name": "Gyarados ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "180",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Rampaging Whirlpool",
+        "damage": "140",
+        "text": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "76",
+    "artist": "PLANETA CG Works",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp"
+    },
+    "evolvesFrom": "Magikarp",
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-77",
+    "name": "Mew ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Genome Hacking",
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "77",
+    "artist": "PLANETA CG Works",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_077_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_077_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-78",
+    "name": "Aerodactyl ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "140",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Land Crush",
+        "damage": "80",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "78",
+    "artist": "PLANETA CG Works",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_078_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_078_EN.webp"
+    },
+    "evolvesFrom": "{{ERROR}}",
+    "abilities": [
+      {
+        "name": "Primeval Law",
+        "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-79",
+    "name": "Pidgeot ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "170",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Scattering Cyclone",
+        "damage": "80+",
+        "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "79",
+    "artist": "PLANETA CG Works",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      18
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp"
+    },
+    "evolvesFrom": "Pidgeotto",
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-80",
+    "name": "Budding Expeditioner",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "80",
+    "artist": "Yuu Nishida",
+    "rarity": "Two Stars",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp"
+    },
+    "rules": [
+      "Put your Mew ex in the Active Spot into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-81",
+    "name": "Blue",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "81",
+    "artist": "Ryuta Fuse",
+    "rarity": "Two Stars",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp"
+    },
+    "rules": [
+      "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-82",
+    "name": "Leaf",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "82",
+    "artist": "En Morikura",
+    "rarity": "Two Stars",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp"
+    },
+    "rules": [
+      "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "A1a-83",
+    "name": "Mew ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Genome Hacking",
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "83",
+    "artist": "HYOGONOSUKE",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_083_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_083_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-84",
+    "name": "Aerodactyl ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "140",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Land Crush",
+        "damage": "80",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "84",
+    "artist": "danciao",
+    "rarity": "Two Stars",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_084_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_084_EN.webp"
+    },
+    "evolvesFrom": "{{ERROR}}",
+    "abilities": [
+      {
+        "name": "Primeval Law",
+        "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-85",
+    "name": "Celebi ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Powerful Bloom",
+        "damage": "50x",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "85",
+    "artist": "kantaro",
+    "rarity": "Three Stars",
+    "nationalPokedexNumbers": [
+      251
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "A1a-86",
+    "name": "Mew ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Psyshot",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Genome Hacking",
+        "damage": "",
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "86",
+    "artist": "PLANETA CG Works",
+    "rarity": "Crown",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  }
+]

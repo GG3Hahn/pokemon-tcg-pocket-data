@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "P-A-1",
+    "name": "Potion",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "1",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp"
+    },
+    "rules": [
+      "Heal 20 damage from 1 of your Pokémon.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-2",
+    "name": "X Speed",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "2",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp"
+    },
+    "rules": [
+      "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-3",
+    "name": "Hand Scope",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "3",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp"
+    },
+    "rules": [
+      "Your opponent reveals their hand.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-4",
+    "name": "Pokédex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "4",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp"
+    },
+    "rules": [
+      "Look at the top 3 cards of your deck.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-5",
+    "name": "Poké Ball",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "5",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp"
+    },
+    "rules": [
+      "Put 1 random Basic Pokemon from your deck into your hand.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-6",
+    "name": "Red Card",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "6",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp"
+    },
+    "rules": [
+      "Your opponent shuffles their hand into their deck and draws 3 cards.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-7",
+    "name": "Professor's Research",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "number": "7",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp"
+    },
+    "rules": [
+      "Draw 2 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ]
+  },
+  {
+    "id": "P-A-8",
+    "name": "Pokédex",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "number": "8",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp"
+    },
+    "rules": [
+      "Look at the top 3 cards of your deck.",
+      "You may play any number of Item cards during your turn."
+    ]
+  },
+  {
+    "id": "P-A-9",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Gnaw",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Atsushi Furusawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-10",
+    "name": "Mewtwo",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Power Blast",
+        "damage": "120",
+        "text": "Discard 2 Psychic Energy from this Pokémon.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "10",
+    "artist": "Krgc",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-11",
+    "name": "Chansey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Gentle Slap",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "11",
+    "artist": "sowsow",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      113
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-12",
+    "name": "Meowth",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Pay Day",
+        "damage": "10",
+        "text": "Draw 1 card.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Shigenori Negishi",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      52
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-13",
+    "name": "Butterfree",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Gust",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "13",
+    "artist": "miki kudo",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      12
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp"
+    },
+    "evolvesFrom": "Metapod",
+    "abilities": [
+      {
+        "name": "Powder Heal",
+        "text": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "P-A-14",
+    "name": "Lapras ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Bubble Drain",
+        "damage": "80",
+        "text": "Heal 20 damage from this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "14",
+    "artist": "PLANETA CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      131
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "P-A-15",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Gnaw",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-16",
+    "name": "Clefairy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Slap",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "16",
+    "artist": "Shibuzoh.",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      35
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-17",
+    "name": "Mankey",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Reckless Charge",
+        "damage": "30",
+        "text": "This Pokémon also does 10 damage to itself.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "17",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      56
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-18",
+    "name": "Venusaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Mega Drain",
+        "damage": "80",
+        "text": "Heal 30 damage from this Pokémon.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "18",
+    "artist": "Kuroimori",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      3
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp"
+    },
+    "evolvesFrom": "Ivysaur"
+  },
+  {
+    "id": "P-A-19",
+    "name": "Greninja",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Mist Slash",
+        "damage": "60",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "19",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp"
+    },
+    "evolvesFrom": "Frogadier",
+    "abilities": [
+      {
+        "name": "Water Shuriken",
+        "text": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+        "type": "Ability"
+      }
+    ]
+  },
+  {
+    "id": "P-A-20",
+    "name": "Haunter",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": "Surprise Attack",
+        "damage": "50",
+        "text": "Flip a coin. If tails, this attack does nothing.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "20",
+    "artist": "Mékayu",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      93
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp"
+    },
+    "evolvesFrom": "Gastly"
+  },
+  {
+    "id": "P-A-21",
+    "name": "Onix",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Land Crush",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "21",
+    "artist": "Tomokazu Komiya",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      95
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-22",
+    "name": "Jigglypuff",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Sing",
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Asleep.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "22",
+    "artist": "Kurata So",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      39
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-23",
+    "name": "Bulbasaur",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": "Vine Whip",
+        "damage": "40",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "23",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-24",
+    "name": "Magnemite",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Lightning Ball",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Miki Tanaka",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      81
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-25",
+    "name": "Moltres ex",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "140",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Inferno Dance",
+        "damage": "",
+        "text": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Heat Blast",
+        "damage": "70",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "25",
+    "artist": "PLANETA Igarashi",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp"
+    },
+    "rules": [
+      "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+    ]
+  },
+  {
+    "id": "P-A-26",
+    "name": "Pikachu",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Gnaw",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "26",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-27",
+    "name": "Snivy",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Tackle",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "27",
+    "artist": "Yoriyuki Ikegami",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      495
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-28",
+    "name": "Volcarona",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": "Volcanic Ash",
+        "damage": "",
+        "text": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "28",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      637
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp"
+    },
+    "evolvesFrom": "Larvesta"
+  },
+  {
+    "id": "P-A-29",
+    "name": "Blastoise",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Hydro Pump",
+        "damage": "80+",
+        "text": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "29",
+    "artist": "danciao",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      9
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp"
+    },
+    "evolvesFrom": "Wartortle"
+  },
+  {
+    "id": "P-A-30",
+    "name": "Eevee",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growl",
+        "damage": "",
+        "text": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "30",
+    "artist": "En Morikura",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-31",
+    "name": "Cinccino",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Do the Wave",
+        "damage": "30x",
+        "text": "This attack does 30 damage for each of your Benched Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "31",
+    "artist": "MAHOU",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      573
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp"
+    },
+    "evolvesFrom": "Minccino"
+  },
+  {
+    "id": "P-A-32",
+    "name": "Charmander",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Ember",
+        "damage": "30",
+        "text": "Discard a Fire Energy from this Pokémon.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "32",
+    "artist": "Naoyo Kimura",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp"
+    }
+  },
+  {
+    "id": "P-A-33",
+    "name": "Squirtle",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Water Gun",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "33",
+    "artist": "Kanako Eo",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      7
+    ],
+    "legalities": {
+      "standard": "Legal"
+    },
+    "images": {
+      "large": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
+      "small": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp"
+    }
+  }
+]

@@ -1,0 +1,1 @@
+This directory contains (JSON Schema)[https://json-schema.org/] files that describe the structure of the data in this repository.
